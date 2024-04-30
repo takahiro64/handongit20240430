@@ -2,3 +2,5 @@
 20240430サポーターズ
 develop
 :*
+
+git revert
